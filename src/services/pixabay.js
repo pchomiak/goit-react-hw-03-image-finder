@@ -1,4 +1,4 @@
-const KEY = '24835588-34c67f39a9342d1bd89adf1b2';
+const KEY = '28308223-0c2c2ce813bae66b46c0e2992';
 
 const fetchImages = (name, page) => {
   return fetch(
